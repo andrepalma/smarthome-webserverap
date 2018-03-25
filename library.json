@@ -1,0 +1,19 @@
+{
+  "name": "webserverap",
+  "version": "1.0.0",
+  "keywords": "Webserver console",
+  "description": "Webserver to console",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/andrepalma/smarthome-webserverap"
+  },
+  "authors": [
+    {
+      "name": "Andre Palma,
+      "email": "reguila2@gmail.com"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
